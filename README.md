@@ -22,3 +22,9 @@ public class Day1 {
             System.out.println("odd");
     }
 }
+
+sample input1 : 9875
+Expected output: odd
+
+sample input2 : 8654
+Expected output: even
