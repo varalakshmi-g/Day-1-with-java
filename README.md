@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Day1 {
 
     public static void main(String[] args) {
-
+    
         Scanner Scan = new Scanner(System.in);
 
         int num = Scan.nextInt();
