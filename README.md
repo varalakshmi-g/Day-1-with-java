@@ -24,7 +24,9 @@ public class Day1 {
 }
 
 sample input1 : 9875
+
 Expected output: odd
 
 sample input2 : 8654
+
 Expected output: even
